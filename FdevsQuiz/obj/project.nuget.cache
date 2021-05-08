@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckEN2WP+jk9RU+tvTfo4wXjHE2WGZHFV2eL1tf0qqDKAIecRAKexHtsq/Oa5MT0jNmcscXJv6rHZQjsNFwXBUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felipe.evaristo\\Desktop\\FdevsQuiz\\FdevsQuiz\\FdevsQuiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipe.evaristo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
