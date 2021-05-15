@@ -1,0 +1,13 @@
+{
+  "Usuario": [
+    {
+      "CodigoUsuario": 1,
+      "NomeUsuario": "Felipe Evaristo",
+      "Email": "felipe.evaristo@bol.com",
+      "Imagem": "foto.com/foto",
+      "Pontos": 2
+    }
+    
+  ]
+}
+

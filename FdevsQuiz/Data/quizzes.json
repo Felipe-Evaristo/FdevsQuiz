@@ -1,0 +1,32 @@
+{
+  "Quiz": [
+    {
+      "Titulo": "java",
+      "CodigoQuiz": 2,
+      "Perguntas": [
+        {
+          "CodigoPergunta": 1,
+          "Pergunta": "Pergunta 1",
+          "Correto": true
+        },
+        {
+          "CodigoPergunta": 2,
+          "Pergunta": "Pergunta 2",
+          "Correto": false
+        },
+        {
+          "CodigoPergunta": 3,
+          "Pergunta": "Pergunta 3",
+          "Correto": false
+        },
+        {
+          "CodigoPergunta": 4,
+          "Pergunta": "Pergunta 4",
+          "Correto": false
+        }
+      ],
+      "Dificuldade": "Facil",
+      "Pontos": 2
+    }
+  ]
+}
